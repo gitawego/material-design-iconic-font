@@ -6,10 +6,8 @@
   font-size: inherit;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  &:before{
-    font: normal normal normal 14px/1 'Material Design Iconic Font';
-    speak: none;
-  }
+  font: normal normal normal 14px/1 'Material Design Iconic Font';
+  speak: none;
 }
 
 .#{$md-css-prefix} {
