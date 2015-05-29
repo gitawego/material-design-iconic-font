@@ -1,0 +1,23 @@
+{
+  "name": "material-design-iconic-font",
+  "version": "1.1.2",
+  "description": "[![Material Design Iconic Font](http://zavoloklom.github.io/material-design-iconic-font/images/Material-Design-Iconic-Font.png)](http://zavoloklom.github.io/material-design-iconic-font/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitawego/material-design-iconic-font.git"
+  },
+  "keywords": [
+    "icon",
+    "material"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gitawego/material-design-iconic-font/issues"
+  },
+  "homepage": "https://github.com/gitawego/material-design-iconic-font#readme"
+}
